@@ -1,0 +1,22 @@
+{
+  "name": "purejavascript",
+  "version": "1.0.0",
+  "description": "to test random javascript codes",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prime-infinity/pure-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prime-infinity/pure-javascript/issues"
+  },
+  "homepage": "https://github.com/prime-infinity/pure-javascript#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
